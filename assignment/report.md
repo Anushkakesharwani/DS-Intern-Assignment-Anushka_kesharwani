@@ -35,6 +35,9 @@ The feature importance analysis for the **Random Forest** model reveals that the
 - **Humidity Levels**
 
 These insights can guide energy optimization efforts in specific zones and processes.
+### Top 15 Important Features
+
+![Top-15 Feature Importances](Top-15-Feature-Importances.png)
 
 
 ## Recommendations
